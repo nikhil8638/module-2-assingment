@@ -14,12 +14,13 @@ h1 {
 .parent-div {
   border: 1px solid black;
   background-color: #A5A5A5;
-  width: 94%;
-  height: 200px;
+  width: 90%;
   font-family: cursive;
   color: black;
 margin-left: 5px;
 margin-right: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
   padding: 5px;
 
 }
