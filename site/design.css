@@ -19,6 +19,7 @@ h1 {
   font-family: cursive;
   color: black;
   margin: auto;
+  padding: 5px;
 }
 .child-div {
   font-size: 25px;
