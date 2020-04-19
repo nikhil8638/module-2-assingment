@@ -20,8 +20,6 @@ h1 {
   height: 200px;
   font-family: cursive;
   color: black;
-  margin-left: 5px;
-
   padding: 5px;
    }
 .child-div {
@@ -99,7 +97,8 @@ h1 {
     width: 41.66%;
   }
   .col-md-6 {
-    width: 50%;
+    width: 49%;
+    border-bottom: 5px solid white;
   }
   .col-md-7 {
     width: 58.33%;
